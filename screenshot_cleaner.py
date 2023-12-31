@@ -2,7 +2,7 @@
 import shutil
 import os
 
-screenshot_dir = 'Users/    Desktop/screenshots'
+screenshot_dir = 'Users/    /Desktop/screenshots'
 desktop_dir = '/Users/  /Desktop'
 
 #if screenshots folder doesn't exist, create it
